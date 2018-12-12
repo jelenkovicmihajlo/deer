@@ -1,7 +1,6 @@
 package org.jelen.deer.utils;
 
-import com.deer.utils.datastructure.FIFOqueue;
-import com.deer.utils.datastructure.LIFOqueue;
+
 
 public class TestFileUtils {
 
