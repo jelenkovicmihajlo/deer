@@ -1,6 +1,7 @@
 package org.jelen.deer.utils;
 
-
+import org.jelen.deer.utils.dataStrutcures.FIFOqueue;
+import org.jelen.deer.utils.dataStrutcures.LIFOqueue;
 
 public class TestFileUtils {
 
